@@ -38,6 +38,7 @@
 * [1亩3分地 - [系统设计/OOD] 系統設計救星! 一天內手把手教你面試System design](https://www.1point3acres.com/bbs/thread-208829-1-1.html)
 
 ## Course
+* [freeCodeCamp courses projects](https://www.freecodecamp.org/learn): learn to finish 2 courses (APIs and Microservices Projects & Take Home Projects). Super good and easy to implement.
 * [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
 * [System design interview questions with solutions](https://github.com/donnemartin/system-design-primer#system-design-interview-questions-with-solutions): 来自donnemartin/system-design-primer
     * Design Pastebin.com (or Bit.ly)
