@@ -1,4 +1,5 @@
-# 系统设计-Feb'19
+# 系统设计
+* Feb2019->May2020
 
 标签（空格分隔）： Interview Database DistributedSystem
 
@@ -11,6 +12,10 @@
 # Reference
 
 ## Github
+* [CHEATSHEET: SYSTEM DESIGN FOR JOB INTERVIEW](https://cheatsheet.dennyzhang.com/cheatsheet-systemdesign-a4): Very helpful a4 size cheatsheet for everything. 记得他之前的blog有详细的System Deisng分析: 包括architect, AWS implementation, Schema Design. 现在没了...
+* [DrawSQL:Database schema templates](https://drawsql.app/templates/): Collection of real world database schemas from open-source packages and real-world apps that you can use as inspiration when architecting your app.
+* [A Distributed Systems Reading List](http://dancres.github.io/Pages/)
+* [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 * [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 * [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 * [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview)
@@ -24,6 +29,8 @@
 * [Gaurav Sen - System design](https://www.youtube.com/watch?v=5faMjKuB9bc): 拜服. 平时就听他的, 要像他这样烂熟于胸. 可以从头到尾写一遍重要的概念.
 
 ## Blog
+* [System Design Interview Questions – Concepts You Should Know](https://www.freecodecamp.org/news/systems-design-for-interviews/) A quick 1 page review of it.
+* [Hacking the Software Engineer Interview, TianPan.co](https://tianpan.co/hacking-the-software-engineer-interview), this is a blog I follow and joined their slack channel.
 * [The morning paper: Adrian Colye](https://blog.acolyer.org/2015/03/04/paxos-made-simple/)
 * [favorite posts on HighScalability](http://highscalability.com/all-time-favorites/)
 * [SSM(十八) 秒杀架构实践](https://crossoverjie.top/2018/05/07/ssm/SSM18-seconds-kill/#distributed-redis-tool-%E2%AC%86%EF%B8%8Fv1-0-3)
