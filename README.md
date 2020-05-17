@@ -29,6 +29,7 @@
 * [Gaurav Sen - System design](https://www.youtube.com/watch?v=5faMjKuB9bc): 拜服. 平时就听他的, 要像他这样烂熟于胸. 可以从头到尾写一遍重要的概念.
 
 ## Blog
+* [数据库中间件基础](https://mjd507.github.io/2019/06/02/middle-ware-db/): 解决单机DB压力: 读写分离 vs 分库/表. 还可以看Alibaba best practice.
 * [System Design Interview Questions – Concepts You Should Know](https://www.freecodecamp.org/news/systems-design-for-interviews/) A quick 1 page review of it.
 * [Hacking the Software Engineer Interview, TianPan.co](https://tianpan.co/hacking-the-software-engineer-interview), this is a blog I follow and joined their slack channel.
 * [The morning paper: Adrian Colye](https://blog.acolyer.org/2015/03/04/paxos-made-simple/)
